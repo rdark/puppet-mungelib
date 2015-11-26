@@ -1,0 +1,21 @@
+# Default ignores for emacs editor
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+# Default ignores for vim editor
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# bundler
+vendor
+.bundle
+
+# puppet module packaging
+/pkg

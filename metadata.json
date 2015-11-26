@@ -1,0 +1,23 @@
+{
+  "name": "rdark-mungelib",
+  "version": "0.1.0",
+  "author": "Richard Clark",
+  "license": "Apache-2.0",
+  "summary": "A stdlib of sorts, a collection of functions for munging, mangling and manipulating data in wierd and wonderful ways",
+  "source": "git@github.com:rdark/puppet-mungelib.git",
+  "project_page": "https://github.com/rdark/puppet-mungelib",
+  "issues_url": "https://github.com/rdark/puppet-mungelib/issues",
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease":[ "5.0", "6.0", "7.0" ]
+    },
+    {
+    "operatingsystem": "Ubuntu",
+    "operatingsystemrelease": [ "12.04", "10.04" ]
+    }
+   ],
+  "dependencies": [
+  ],
+  "data_provider": "hiera"
+}
