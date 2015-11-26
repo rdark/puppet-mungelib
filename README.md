@@ -639,8 +639,6 @@ Would give:
       }
     }
 
-
-
 #### Insert_child_subkey
 
 Given a hash containing nested hashes, a single or array of regular
